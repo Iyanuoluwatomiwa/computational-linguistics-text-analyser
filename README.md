@@ -29,7 +29,7 @@ A simple yet powerful web app that analyzes **sentiment**, **detects language**,
 To run locally:
 
 ```bash
-git clone https://github.com/yourusername/nlp-text-analyzer.git
+git clone https://github.com/Iyanuoluwatomiwa/computational-linguistics-text-analyser.git
 cd nlp-text-analyzer
 pip install -r requirements.txt
 streamlit run app.py
