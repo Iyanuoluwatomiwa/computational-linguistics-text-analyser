@@ -2,3 +2,5 @@ streamlit
 textblob
 langdetect
 pycountry
+language_tool_python
+nltk
