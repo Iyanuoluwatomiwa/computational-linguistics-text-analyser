@@ -5,7 +5,7 @@ A simple yet powerful web app that analyzes **sentiment**, **detects language**,
 ---
 
 ## 🚀 Demo
-👉 [Live App on Streamlit Cloud](https://your-app-url.streamlit.app) *(Link will appear after deployment)*
+👉 [Live App on Streamlit Cloud](https://computational-linguistics-text-analyser-jso7xwjnhfxqezfdv3rkp6.streamlit.app) 
 
 ---
 
